@@ -93,32 +93,5 @@ src/
  └─ ...
 ```
 
-***
-
-## Future Improvements
-
-- Add drag-and-drop task reordering.
-- Integrate local storage or backend for persistent data.
-- Add task due dates and reminders.
-- Expand gamification with virtual rewards, avatars, and achievements.
-- Support multi-user collaboration and sharing.
-
-***
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.  
-2. Create your feature branch: `git checkout -b feature/my-feature`  
-3. Commit your changes: `git commit -m "Add my feature"`  
-4. Push to the branch: `git push origin feature/my-feature`  
-5. Open a Pull Request.
-
-***
 
 
-
-***
-
-If you want, I can prepare a markdown file (`README.md`) with badges, images, and formatted links—just ask!
